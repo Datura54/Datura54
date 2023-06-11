@@ -21,7 +21,8 @@
 
 <h2>✔️    Certifications:</h2>
 
-- [Google IT Support Professional](https://www.credly.com/badges/7280df6c-5888-4ab6-a21f-35d6b2780cf4/public_url)
+- [Google IT Support Professional Certificate](https://www.credly.com/badges/7280df6c-5888-4ab6-a21f-35d6b2780cf4/public_url)
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/b959619b-170e-4bf5-a031-0f6ccb1c09a2/public_url)
 
 
 <h2>📜 Popular YouTube Videos</h2>
