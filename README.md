@@ -11,8 +11,7 @@
 							<li><a href="Elastic.html">SIEM with Elastic Stack</a></li>
 
 
-						</ul>
-					</li>
+					
 					<li>
 						<b><a href="#Incident Response and Collaboration">Incident Response and Collaboration:</a></b>
 						<ul>
