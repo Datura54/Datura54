@@ -2,21 +2,73 @@
 
 <h2>🔱 CyberSecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<ul>
+					<li>
+						<b><a href="#Security Information and Event Management">Security Information and Event Management
+								(SIEM):</a></b>
+						<ul>
+							<li><a href="Azure.html">Azure Sentinel Map</a></li>
+							<li><a href="Elastic.html">SIEM with Elastic Stack</a></li>
+
+
+						</ul>
+					</li>
+					<li>
+						<b><a href="#Incident Response and Collaboration">Incident Response and Collaboration:</a></b>
+						<ul>
+							<li><a href="TheHive.html">TheHive-Incident Management System</a></li>
+							<li><a href="MISP.html">MISP-Threat Intelligence Platform</a></li>
+
+
+						</ul>
+					</li>
+					<li>
+						<b><a href="#Network Security">Network Security:</a></b>
+						<ul>
+							<li><a href="TCPDump.html">TCPDump</a></li>
+							<li><a href="Velociraptor.html">Velociraptor</a></li>
+							<li><a href="FirewallLogs.html">Firewall Log Analysis</a></li>
+							<li><a href="DomainLogAD.html"> Domain Log Review with DeepBlue</a></li>
+							<!--<li><a href="CiscoASA.html"> Evaluating Log Fidelity and Threat Detection </a></li>
+							<li><a href="#Azure">WireShark</a></li>-->
+
+						</ul>
+					</li>
+					<li>
+						<b><a href="#Web Application Security">Web Application Security:</a></b>
+						<ul>
+							<li><a href="Zap Attack.html">Zap Attack</a></li>
+
+						</ul>
+					</li>
+					<li>
+						<b><a href="#System Security and Analysis">System Security and Analysis:</a></b>
+						<ul>
+							<!--<li><a href="#Azure">Elk Stack</a></li>
+							<li><a href="#Azure">Analyzing Sysmon Logs for Threat Detection</a></li>-->
+							<li><a href="BackdoorAndForensics.html">Backdoor</a></li>
+							<li><a href="Volatility.html">Memory Dump with Volatility</a></li>
+
+
+						</ul>
+					</li>
+					<li>
+						<b><a href="#Active Directory">Active Directory:</a></b>
+						<ul>
+							<li><a href="ActiveDirectory.html">AD Setup</a></li>
+						</ul>
+					</li>
+					<li>
+						<b><a href="#Events/Courses">Events/Courses:</a></b>
+						<ul>
+							<!--<li><a href="#Azure">Agile</a></li>
+							<li><a href="#Azure">Polkadot Decoded 2023</a></li>-->
+							<li><a href="SOCCoreSkills.html">SOC Core Skills with john Strand</a></li>
+							<li><a href="Polkadot Decoded.html">Polkadot Decoded 2023</a></li>
+
+						</ul>
+					</li>
+				</ul>
 
 
 <h2>✔️    Certifications:</h2>
@@ -25,13 +77,9 @@
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/b959619b-170e-4bf5-a031-0f6ccb1c09a2/public_url)
 
 
-<h2>📜 Popular YouTube Videos</h2>
+<!-- <h2>📜 CTF's</h2> -->
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
 
 <h2> ⚜️ Connect with me:</h2>
 
