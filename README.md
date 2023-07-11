@@ -2,72 +2,28 @@
 
 <h2>🔱 CyberSecurity Projects:</h2>
 
-<ul>
-					<li>
-						<b><a href="#Security Information and Event Management">Security Information and Event Management
-								(SIEM):</a></b>
-						<ul>
-							<li><a href="Azure.html">Azure Sentinel Map</a></li>
-							<li><a href="Elastic.html">SIEM with Elastic Stack</a></li>
+- [**Security Information and Event Management (SIEM)**](#Security-Information-and-Event-Management)
+  - [Azure Sentinel Map](Azure.html)
+  - [SIEM with Elastic Stack](Elastic.html)
+- [**Incident Response and Collaboration**](#Incident-Response-and-Collaboration)
+  - [TheHive-Incident Management System](TheHive.html)
+  - [MISP-Threat Intelligence Platform](MISP.html)
+- [**Network Security**](#Network-Security)
+  - [TCPDump](TCPDump.html)
+  - [Velociraptor](Velociraptor.html)
+  - [Firewall Log Analysis](FirewallLogs.html)
+  - [Domain Log Review with DeepBlue](DomainLogAD.html)
+- [**Web Application Security**](#Web-Application-Security)
+  - [Zap Attack](Zap Attack.html)
+- [**System Security and Analysis**](#System-Security-and-Analysis)
+  - [Backdoor](BackdoorAndForensics.html)
+  - [Memory Dump with Volatility](Volatility.html)
+- [**Active Directory**](#Active-Directory)
+  - [AD Setup](ActiveDirectory.html)
+- [**Events/Courses**](#Events/Courses)
+  - [SOC Core Skills with john Strand](SOCCoreSkills.html)
+  - [Polkadot Decoded 2023](Polkadot Decoded.html)
 
-
-					<ul>
-					<li>
-						<b><a href="#Incident Response and Collaboration">Incident Response and Collaboration:</a></b>
-						<ul>
-							<li><a href="TheHive.html">TheHive-Incident Management System</a></li>
-							<li><a href="MISP.html">MISP-Threat Intelligence Platform</a></li>
-
-
-						</ul>
-					</li>
-					<li>
-						<b><a href="#Network Security">Network Security:</a></b>
-						<ul>
-							<li><a href="TCPDump.html">TCPDump</a></li>
-							<li><a href="Velociraptor.html">Velociraptor</a></li>
-							<li><a href="FirewallLogs.html">Firewall Log Analysis</a></li>
-							<li><a href="DomainLogAD.html"> Domain Log Review with DeepBlue</a></li>
-							<!--<li><a href="CiscoASA.html"> Evaluating Log Fidelity and Threat Detection </a></li>
-							<li><a href="#Azure">WireShark</a></li>-->
-
-						</ul>
-					</li>
-					<li>
-						<b><a href="#Web Application Security">Web Application Security:</a></b>
-						<ul>
-							<li><a href="Zap Attack.html">Zap Attack</a></li>
-
-						</ul>
-					</li>
-					<li>
-						<b><a href="#System Security and Analysis">System Security and Analysis:</a></b>
-						<ul>
-							<!--<li><a href="#Azure">Elk Stack</a></li>
-							<li><a href="#Azure">Analyzing Sysmon Logs for Threat Detection</a></li>-->
-							<li><a href="BackdoorAndForensics.html">Backdoor</a></li>
-							<li><a href="Volatility.html">Memory Dump with Volatility</a></li>
-
-
-						</ul>
-					</li>
-					<li>
-						<b><a href="#Active Directory">Active Directory:</a></b>
-						<ul>
-							<li><a href="ActiveDirectory.html">AD Setup</a></li>
-						</ul>
-					</li>
-					<li>
-						<b><a href="#Events/Courses">Events/Courses:</a></b>
-						<ul>
-							<!--<li><a href="#Azure">Agile</a></li>
-							<li><a href="#Azure">Polkadot Decoded 2023</a></li>-->
-							<li><a href="SOCCoreSkills.html">SOC Core Skills with john Strand</a></li>
-							<li><a href="Polkadot Decoded.html">Polkadot Decoded 2023</a></li>
-
-						</ul>
-					</li>
-				</ul>
 
 
 <h2>✔️    Certifications:</h2>
