@@ -14,7 +14,7 @@
   - [Firewall Log Analysis](FirewallLogs.html)
   - [Domain Log Review with DeepBlue](DomainLogAD.html)
 - [**Web Application Security**](#Web-Application-Security)
-  - [Zap Attack](Zap Attack.html)
+  - [Zap Attack](Zap-Attack.html)
 - [**System Security and Analysis**](#System-Security-and-Analysis)
   - [Backdoor](BackdoorAndForensics.html)
   - [Memory Dump with Volatility](Volatility.html)
@@ -22,7 +22,7 @@
   - [AD Setup](ActiveDirectory.html)
 - [**Events/Courses**](#Events/Courses)
   - [SOC Core Skills with john Strand](SOCCoreSkills.html)
-  - [Polkadot Decoded 2023](Polkadot Decoded.html)
+  - [Polkadot Decoded 2023](Polkadot-Decoded.html)
 
 
 
