@@ -1,4 +1,4 @@
-<h1>Hi, I'm Datura! <br/><a href="https://www.linkedin.com/in/miguel54nogueira/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Miguel Nogueira! <br/><a href="https://www.linkedin.com/in/miguel54nogueira/">SOC Analyst</a></h1>
 
 <h2>🔱 CyberSecurity Projects:</h2>
 
@@ -39,13 +39,9 @@
 <h2> ⚜️ Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt=" | Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][Portfolio]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+[Portfolio]: https://datura54.github.io/
 [linkedin]: https://www.linkedin.com/in/miguel54nogueira/
-
-<!--
 
