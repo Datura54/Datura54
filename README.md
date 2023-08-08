@@ -1,6 +1,6 @@
 <h1>Hi, I'm Miguel Nogueira! <br/><a href="https://www.linkedin.com/in/miguel54nogueira/">SOC Analyst</a></h1>
 
-<h2>🔱 CyberSecurity Projects:</h2>
+<h2>🔱 CyberSecurity Portfolio:</h2>
 
 - [**Security Information and Event Management (SIEM)**](#Security-Information-and-Event-Management)
   - [Azure Sentinel Map](https://datura54.github.io/Azure.html)
