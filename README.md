@@ -1,4 +1,4 @@
-<h1>Hi, I'm Miguel Nogueira! <br/><a href="https://www.linkedin.com/in/miguel54nogueira/">SOC Analyst</a></h1>
+<h1>Hi, I'm Miguel Nogueira! <br/><a href="https://www.linkedin.com/in/miguel54nogueira/">Incident Responder</a></h1>
 
 <h2>🔱 CyberSecurity Portfolio:</h2>
 
